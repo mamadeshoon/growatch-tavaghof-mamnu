@@ -1,7 +1,0 @@
-{
-  "name": "Growatch",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
